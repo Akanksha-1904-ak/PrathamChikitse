@@ -1,3 +1,4 @@
+// HomeScreen — displays 10 emergency tiles, call numbers and hospital button
 package com.pratham.chikitse.ui.screens
 
 import android.content.Intent
