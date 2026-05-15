@@ -1,3 +1,4 @@
+// StepGuideScreen — swipeable step guide with TTS audio in Kannada and English
 package com.pratham.chikitse.ui.screens
 
 import android.speech.tts.TextToSpeech
