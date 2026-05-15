@@ -1,3 +1,4 @@
+// HospitalFinderScreen — live GPS hospital search with offline cache fallback
 package com.pratham.chikitse.ui.screens
 
 import android.Manifest
