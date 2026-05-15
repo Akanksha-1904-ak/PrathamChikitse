@@ -1,3 +1,4 @@
+// MainActivity — entry point with language toggle and Compose setup
 package com.pratham.chikitse
 
 import android.os.Bundle
