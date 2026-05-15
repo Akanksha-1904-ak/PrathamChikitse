@@ -1,3 +1,4 @@
+// Color — custom teal and red medical theme palette
 package com.pratham.chikitse.ui.theme
 
 import androidx.compose.ui.graphics.Color
