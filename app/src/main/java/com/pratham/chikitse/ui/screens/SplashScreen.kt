@@ -1,3 +1,4 @@
+// SplashScreen — animated launch screen with logo and TTS initialization
 package com.pratham.chikitse.ui.screens
 
 import androidx.compose.animation.*
