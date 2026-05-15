@@ -1,3 +1,4 @@
+// EmergencyData — contains all 10 emergency modules with steps, dos and donts
 package com.pratham.chikitse.data
 
 import androidx.compose.ui.graphics.Color
