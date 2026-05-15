@@ -1,3 +1,4 @@
+// EmergencyDetailScreen — overview screen with steps preview and navigation
 package com.pratham.chikitse.ui.screens
 
 import androidx.compose.foundation.background
