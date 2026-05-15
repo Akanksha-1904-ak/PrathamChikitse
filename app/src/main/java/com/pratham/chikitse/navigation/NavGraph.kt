@@ -1,3 +1,4 @@
+// NavGraph — navigation routes for all 6 screens with arguments
 package com.pratham.chikitse.navigation
 
 import androidx.compose.runtime.Composable
