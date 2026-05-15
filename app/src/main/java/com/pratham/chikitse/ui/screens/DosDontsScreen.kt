@@ -1,3 +1,4 @@
+// DosDontsScreen — color coded Do's and Don'ts per emergency type
 package com.pratham.chikitse.ui.screens
 
 import androidx.compose.foundation.background
